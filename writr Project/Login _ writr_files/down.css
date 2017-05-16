@@ -1,0 +1,19 @@
+body { /**/ /*height: 100%;*/ text-align: center; font-family: Trebuchet MS; background-color: #194D83; /*background-size: contain;*/ /*width: auto;*/ color: #FFFFFF; font-family: georgia; font-size: 17pt; font-weight: 300; line-height: 1.65; /*background-repeat: space repeat;*/ /*background-position: top center;*/ }
+#loginbox { right: 0px; text-align: right; font-size: 20px; /*top: 10px;*/ position: relative; margin-right: 50px; }
+#loginbar { background-color: rgba(0, 0, 0, 0.846); padding: 11px; width: 100%; position: fixed; z-index: 1000; top: 0px; left: 0px; /*+box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.846);*/ -moz-box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.846); -webkit-box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.846); box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.846); }
+#loginbox button { background-color: #FF5555; border: none; /*+border-radius: 24px;*/ -moz-border-radius: 24px; -webkit-border-radius: 24px; -khtml-border-radius: 24px; border-radius: 24px; height: 31px; width: 85px; }
+.titlebox { background-color: #113458; position: relative; transform: translateX(-50%); text-align: center; left: 50%; width: 75%; /*border: 1px black solid;*/ height: auto; /*+border-radius: 16px;*/ -moz-border-radius: 16px; -webkit-border-radius: 16px; -khtml-border-radius: 16px; border-radius: 16px; /*+box-shadow: 0px 0px 20px black;*/ -moz-box-shadow: 0px 0px 20px black; -webkit-box-shadow: 0px 0px 20px black; box-shadow: 0px 0px 20px black; top: 64px; padding: 20px; margin-bottom: 100px; }
+#title-writr { font-weight: bold; font-style: italic; font-size: 54px; }
+#essay { font-family: ; }
+h1 { /*color: white;*/ text-align: center; }
+.bottombox { position: relative; bottom: 5%; transform: translateX(-50%); text-align: center; left: 50%; width: 65%; /*color: white;*/ font-size: 20px; background-color: #113458; padding-bottom: 0px; padding: 2px; /*+border-radius: 245px;*/ -moz-border-radius: 245px; -webkit-border-radius: 245px; -khtml-border-radius: 245px; border-radius: 245px; margin-top: 50px; }
+.bottombox a { color: #06EAFF; }
+#slogan-titlebox { font-style: italic; font-size: 26px; }
+#logo-main { height: 137px; width: 137px; }
+#main { padding-left: 50px; padding-right: 50px; top: 20px; position: relative; }
+h2 { text-align: left; font-weight: bold; font-style: italic; font-size: 28pt; line-height: 0; font-family: helvetica; }
+.mainpage-sub { line-height: 1.35; text-align: justify; margin-bottom: 60px; }
+.STboxHeader { font-weight: bold; font-style: italic; font-size: 30px; padding: 0px 4px 4px; color: white; }
+.STbox { border: 2px solid rgba(0, 0, 0, 0); padding: 12px 25px 25px; background-color: rgba(0, 0, 0, 0.145); /*+transition-duration: 150ms;*/ -webkit-transition-duration: 150ms; -moz-transition-duration: 150ms; -o-transition-duration: 150ms; transition-duration: 150ms; border-bottom-right-radius: 0; /*+border-radius: 25px;*/ -moz-border-radius: 25px; -webkit-border-radius: 25px; -khtml-border-radius: 25px; border-radius: 25px; margin: 0; color: transparent; }
+#studentHowBox:hover { background-color: #F0BAB9; color: black; }
+#teacherHowBox:hover { background-color: #F0BAB9; color: black; }
